@@ -36,7 +36,7 @@ models:
       +materialized: view
 
 vars:
-  fivetran_platform_schema: vijay_ambati_fivetran_log
+  fivetran_platform_schema: VIJAY_AMBATI_TRANSFORMATION_LAB_FIVETRAN_LOG
   fivetran_platform_using_destination_membership: false
   fivetran_platform_using_user: false
   fivetran_platform_using_incremental_mar: false
